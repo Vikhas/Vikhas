@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi there! I'm Vikhas 👋
 
-<!--
-**Vikhas/Vikhas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a software engineer with a passion for full-stack development, automation, and exploring new technologies. I enjoy building scalable solutions and continuously improving my skill set.
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
+- **Frontend**: HTML, CSS, JavaScript, EJS
+- **Backend**: Node.js, Express.js
+- **Database**: MongoDB
+- **Tools & Technologies**: Kafka, Docker, Kubernetes, Jenkins, Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Learning & Growing
+I'm always seeking to expand my knowledge in:
+- Cloud Computing (AWS, GCP)
+- Microservices Architecture
+- DevOps (CI/CD, containerization)
+
+## 📫 Let's Connect!
+- **LinkedIn**: [Vikhas S G](https://www.linkedin.com/in/vikhassg/)
